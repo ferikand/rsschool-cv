@@ -54,22 +54,22 @@ _Education:_
 _Courses, trainings, certificates:_
 
      Accounting at the enterprise. 1C Accounting. (Kyiv)
-      Organization of accounting at the enterprise. Working with 1C 8.3
+      -Organization of accounting at the enterprise. -Working with 1C 8.3
 
      Front End Development (Kyiv)
-      Learning web development languages: HTML, CSS, JavaScript.
+      -Learning web development languages: HTML, CSS, JavaScript.
 
      Sales Process Improvement (Münich, Germany)
-      training "Improving the sales process" (Steiner, Germany)
+      -Training "Improving the sales process" (Steiner, Germany)
 
      Sales management(Kyiv, Ukraine)
-      training "Sales Management" (Infor Manager)
+      -Training "Sales Management" (Infor Manager)
 
      Equipment Sales(Ulm, Germany)
-      training for regional representatives at the plant Weishaupt (Germany)
+      -Training for regional representatives at the plant Weishaupt (Germany)
 
      Active sales(Kyiv, Ukraine)
-      training "Active sales" (Foxtrot Group)
+      -Ttraining "Active sales" (Foxtrot Group)
 
 _Language skills:_
 
